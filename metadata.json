@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SipSmart AI",
+  "description": "Track your alcohol consumption with AI-powered image recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
